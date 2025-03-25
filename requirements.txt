@@ -1,5 +1,5 @@
 python-telegram-bot==20.0
-aiogram
+aiogram==2.23.1
 instaloader
 yt-dlp
 requests
