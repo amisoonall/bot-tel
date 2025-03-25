@@ -1,0 +1,9 @@
+python-telegram-bot==20.0
+aiogram
+instaloader
+yt-dlp
+requests
+google-generativeai
+beautifulsoup4
+selenium
+webdriver-manager
