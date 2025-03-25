@@ -10,7 +10,8 @@ from bs4 import BeautifulSoup
 import yt_dlp
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup 
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackContext, CallbackQueryHandler, filters
-from aiogram import Bot, Dispatcher, types
+from aiogram import Bot, Dispatcher
+import asyncio
 import logging
 import time
 import re
